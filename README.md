@@ -4,7 +4,8 @@
 This project analyzes sales data to identify revenue trends, product performance, profitability patterns, and regional business performance using Power BI and Excel.
 
 ## Tools Used
-- Power BI
+- Power BI<img width="1427" height="803" alt="Screenshot 2026-05-07 124856" src="https://github.com/user-attachments/assets/72fbfb28-ff0e-4b1b-a413-208eafade223" />
+
 - Microsoft Excel
 - SQL (Basic Query Analysis)
 
